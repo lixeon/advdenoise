@@ -1,6 +1,6 @@
 ### AdvDenoise: Fast Generation Framework of Universal and Robust Adversarial Patches Using Denoise
 
-AdvDenoise: Fast Generation Framework of Universal and Robust Adversarial Patches Using Denoise (Submitted to ICASSP 2024)
+AdvDenoise: Fast Generation Framework of Universal and Robust Adversarial Patches Using Denoise
 
 <!--
 **advdenoise/advdenoise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
